@@ -11,6 +11,7 @@ function dayOne() {
     "sevenine",
     "eightwo",
     "eighthree",
+    "twone",
     "one",
     "two",
     "three",
@@ -21,7 +22,7 @@ function dayOne() {
     "eight",
     "nine",
   ];
-  const numNum = [18, 38, 98, 79, 82, 83, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+  const numNum = [18, 38, 98, 79, 82, 83, 21, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
   for (i in input) {
     let str = input[i];
